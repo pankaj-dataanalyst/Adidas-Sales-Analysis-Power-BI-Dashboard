@@ -66,9 +66,9 @@ Adidas-Sales-Analysis-Power-BI-Dashboard/
 │
 └── README.md
 
-Dashboard Preview
+## 📷 Dashboard Preview
 
-![Adidas Sales Analysis Dashboard](Screenshots/Adidas_Dashboard_Preview.png)
+![Adidas Sales Analysis Dashboard](Adidas_Dashboard_Preview.png)
 
 Key Dashboard Metrics
 The uploaded dashboard displays these KPI values:
