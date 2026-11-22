@@ -1,10 +1,12 @@
-Adidas Sales Analysis Dashboard | Power BI
+Adidas Sales Analysis Dashboard | Power BI.
+
 Project Overview
 This project presents an interactive Adidas Sales Analysis Dashboard developed using Microsoft Power BI.
 The dashboard provides insights into Adidas sales performance, profitability, regional distribution, retailer performance, and product-wise sales.
 It helps transform sales data into meaningful business insights through interactive visualizations, KPI cards, maps, and filters.
 
 Project Objectives
+
 Analyze overall Adidas sales performance.
 Monitor total sales and profitability.
 Identify monthly sales trends.
@@ -15,6 +17,7 @@ Understand sales performance across different sales channels.
 Compare business performance across different years.
 
 Dashboard Features
+
 1. Key Performance Indicators (KPIs)
 Total Sales
 Total Profit
@@ -64,11 +67,14 @@ Adidas-Sales-Analysis-Power-BI-Dashboard/
 └── README.md
 
 📷 Dashboard Preview
-!Adidas Sales Analysis Dashboard
+
+Adidas_Dashboard_Preview.png
+
 Key Dashboard Metrics
 The uploaded dashboard displays these KPI values:
 
 Metric	Value
+
 Total Sales	$899.90...
 Total Profit	$332.13M
 Total Units Sold	18M
@@ -78,6 +84,7 @@ Average Profit Margin	42.30%
 Note: Total Sales is partially truncated in the screenshot. Values represent the displayed dashboard snapshot.
 
 Key Business Insights
+
 West Gear has the highest displayed retailer sales at approximately $243M.
 Foot Locker contributes approximately $220M in sales.
 Sports Direct contributes approximately $182M.
@@ -86,6 +93,7 @@ March records the lowest monthly sales at approximately $57M.
 The West region has the highest displayed regional contribution at 29.97%.
 
 How to Use
+
 Download the Power BI dashboard file from the PowerBI folder.
 Open the .pbix file using Microsoft Power BI Desktop.
 Refresh the dataset if required.
@@ -94,6 +102,7 @@ Use the Year, Sales Channel, and Month filters.
 Analyze sales, profitability, retailer performance, and product trends. 
 
 Business Benefits
+
 Helps monitor sales performance.
 Supports data-driven decision-making.
 Identifies high-performing retailers.
